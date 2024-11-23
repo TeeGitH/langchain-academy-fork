@@ -217,3 +217,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# This is the file Tee create and it stores API keys and important info.
+test.py 
